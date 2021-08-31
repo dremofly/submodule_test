@@ -1,0 +1,7 @@
+[submodule "explorer"]
+	path = explorer
+	url = https://github.com/RookieCoderrr/Neo-Explorer-UI.git
+[submodule "neo3fura"]
+	path = neo3fura
+	url = https://github.com/lutianzhou001/neo3fura.git
+	branch = vincent-dev-ws3
